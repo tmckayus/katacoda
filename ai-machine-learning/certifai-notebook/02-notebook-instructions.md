@@ -1,6 +1,6 @@
 Before you go on, there are a few things you should know.
 
-The notebook url will open another browser tab.
+When you connect to the notebook, it will open in another browser tab.
 Just click back to the current tab if you need to refer to the instructions.
 
 You will be presented with some preloaded files.
@@ -17,7 +17,7 @@ The notebook password is ``developer``{{copy}}.
 
 Note, when you visit the notebook url, you may be asked to accept **a security** certificate. This is normal.
 
-To navigate to the notebook you can click on the small icon at the upper right of the
+Now, to connect to the notebook click on the small icon at the upper right of the
 deployment object, or scroll to the bottom of the status display and click on the url for _custom-notebook_.
 
 ![Route](./certifai-notebook/assets/02-route-to-notebook.png)
