@@ -15,9 +15,9 @@ The notebook password is ``developer``{{copy}}.
 
 ![Login Prompt](./certifai-notebook/assets/02-notebook-login-prompt.png)
 
-Note, when you visit the notebook url, you may be asked to accept **a security** certificate. This is normal.
+When you visit the notebook url, you may be asked to accept **a security** certificate. This is normal.
 
-Now, to connect to the notebook click on the small icon at the upper right of the
+Now, to connect to the notebook, click on the small icon at the upper right of the
 deployment object, or scroll to the bottom of the status display and click on the url for _custom-notebook_.
 
 ![Route](./certifai-notebook/assets/02-route-to-notebook.png)
