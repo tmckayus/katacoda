@@ -4,4 +4,7 @@ For more information on Cortex Certifai visit [CognitiveScale](https://www.cogni
 
 To try out an OpenShift installation, go to [try.openshift.com](https://try.openshift.com)
 
+For other general AI/ML content on learn.openshift.com, press _Next Scenario_ or simply
+close your browser tab if you are finished.
+
 Have a great day!

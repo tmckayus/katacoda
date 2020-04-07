@@ -19,15 +19,20 @@
          },
         "steps": [
            {
-            "title": "Helpful Tip",
+            "title": "Helpful Tip!",
             "text": "00-helpful-tip.md"
            },
            {
             "title": "Logging in to OpenShift",
             "text": "01-logging-in-to-openshift.md"
            },
-           {"title": "Connecting to the notebook",
+           {
+            "title": "Connecting to the notebook",
             "text": "02-notebook-instructions.md"
+           },
+           {
+            "title": "Step through the notebook",
+            "text": "03-step-through-the-notebook.md"
            }
         ],
         "intro": {

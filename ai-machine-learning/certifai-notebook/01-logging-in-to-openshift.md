@@ -10,9 +10,15 @@ For the credentials, enter:
 * **Username:** ``developer``{{copy}}
 * **Password:** ``developer``{{copy}}
 
+and click **Log In**
+
 Now use the pulldown menu at the top left to switch from _Administrator_ to _Developer_.
 
 ![List of Projects](./certifai-notebook/assets/01-switch-to-developer.png)
+
+You will see a _Restricted Access_ warning. Don't worry, that's expected.
+
+![Restricted Access](./certifai-notebook/assets/01-restricted-access.png)
 
 Using the _Project_ pulldown, set the project to _myproject_.
 
