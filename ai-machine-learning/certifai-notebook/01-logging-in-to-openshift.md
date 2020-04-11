@@ -2,7 +2,7 @@ This tutorial uses an OpenShift web console.
 
 1. Click on the _Console_ tab at the top right of the dashboard to display the OpenShift login dialog.
 
-![Web Console Login](./certifai-notebook/assets/01-web-console-login.png)
+   ![Web Console Login](./certifai-notebook/assets/01-web-console-login.png)
 
 2. For the credentials enter:
 
