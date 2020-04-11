@@ -1,4 +1,5 @@
-This tutorial demonstrates how to build trust into your digital systems by using [Cortex Certifai](https://www.cognitivescale.com/certifai/) from [CognitiveScale](https://www.cognitivescale.com) by detecting and scoring black-box models. We will use a Jupyter Notebook running on Red Hat OpenShift to demonstrate the use of Cortex Certifai Toolkit during the model development lifecycle.
+This tutorial demonstrates how to use [Cortex Certifai](https://www.cognitivescale.com/certifai/) from [CognitiveScale](https://www.cognitivescale.com) to build trust into your AI systems by detecting and scoring black-box models. This tutorial uses a Jupyter Notebook running on Red Hat OpenShift to demonstrate the ease of installation and model evaluation using the Cortex Certifai Toolkit during the model development lifecycle.
 
+A notebook has been prepared for you to make getting started simple.
 
-We've already created a notebook for you to make things fast and easy, so let's get started!
+Let’s jump in!

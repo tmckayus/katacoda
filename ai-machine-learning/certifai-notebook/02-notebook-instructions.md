@@ -1,23 +1,20 @@
-Before you go on, there are a few things you should know.
+A couple of things to know before moving forward:
 
-When you connect to the notebook, it will open in another browser tab.
-Just click back to the current tab if you need to refer to the instructions.
+- When you connect to the notebook, it will open in another browser tab.
+- Click back to the previous tab if you need to refer to the instructions.
 
-You will be presented with some preloaded files.
+1. Preloaded files have been added for you in this location: _/examples/notebooks/_. Click _BringingInYourOwnModel.ipynb_ to open it.
 
-![File List](./certifai-notebook/assets/02-notebook-files.png)
+   ![Bringing Your Own](./certifai-notebook/assets/02-bringing-your-own.png)
 
-You will need to navigate to _/examples/notebooks/_ and click on _BringingInYourOwnModel.ipynb_
+2. Enter the notebook password: ``developer``{{copy}}.
 
-![Bringing Your Own](./certifai-notebook/assets/02-bringing-your-own.png)
+   ![Login Prompt](./certifai-notebook/assets/02-notebook-login-prompt.png)
 
-The notebook password is ``developer``{{copy}}.
+3. To connect to the notebook, click the small icon at the upper right of the deployment object, or scroll to the bottom of the status display and click the URL for _custom-notebook_.
 
-![Login Prompt](./certifai-notebook/assets/02-notebook-login-prompt.png)
+   ![Route](./certifai-notebook/assets/02-route-to-notebook.png)
 
-When you visit the notebook url, you may be asked to accept **a security** certificate. This is normal.
+4. Accept the security certificate if it is presented.
 
-Now, to connect to the notebook, click on the small icon at the upper right of the
-deployment object, or scroll to the bottom of the status display and click on the url for _custom-notebook_.
-
-![Route](./certifai-notebook/assets/02-route-to-notebook.png)
+5. Click **Continue**.
